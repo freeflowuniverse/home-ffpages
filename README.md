@@ -4,42 +4,30 @@
 
 [FreeflowPages](http://freeflowpages.com) A Social network for [Threefold Token Foundation](https://www.threefold.io/)
 
-### Owner: 
-* [Peter Van der Henst](https://www.linkedin.com/in/petervanderhenst/)
-
 ### Team:
-* [Andreas Hartl](https://www.linkedin.com/in/andreas-hartl-4330b8b/)
-* [Roel van Sabben](https://www.linkedin.com/in/roelvansabben/)
-* [Sabrina Sadik ](https://www.linkedin.com/in/sabrina-sadik-449758132/)
-* [Jan De Landtsheer](https://www.linkedin.com/in/jand2/), 
-* [Joris Vermeulen ](https://www.linkedin.com/in/jorisvermeulen/), 
-
 
 ### Website:
 
-[bettertoken.com](https://bettertoken.com/)
+[freeflowpages.com](https://freeflowpages.com/)
 
-Staging: [www2.bettertoken.com](https://www2.bettertoken.com/)
+Staging: [www2.freeflowpages.com](https://www2.freeflowpages.com/)
 
 ### Wiki:
 
-[wiki.bettertoken.com](https://wiki.bettertoken.com/)
+[wiki.freeflowpages.com](https://wiki.freeflowpages.com/)
 
-staging: [wiki2.bettertoken.com](http://wiki2.bettertoken.com)
+staging: [wiki2.freeflowpages.com](http://wiki2.freeflowpages.com)
 
 ### FreeFlowPages
-https://freeflowpages.com/s/bettertoken
+https://freeflowpages.com/s/freeflowpages
 
 ### Gitea
-https://docs.grid.tf/org/bettertoken/
+https://docs.grid.tf/freeflowpages/
 
 ### Google Drive
-https://drive.google.com/drive/u/1/folders/16sCQu2GZ3EkMPmuqks35HPIV9nn7zqEZ
+https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
 
 ## Repos
-
-
-
 
 #### Repos Index
 
