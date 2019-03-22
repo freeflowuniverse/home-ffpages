@@ -2,7 +2,11 @@
 
 #### What is Freeflowpages
 
+DECENTRALIZED SOCIAL SPACES 
+FreeFlowPages where privacy and social media co-exist.
+
 [FreeflowPages](http://freeflowpages.com) A Social network for [Threefold Token Foundation](https://www.threefold.io/)
+
 
 ### Team:
 
