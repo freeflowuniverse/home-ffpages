@@ -38,10 +38,11 @@ https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
 - [Home](https://github.com/freeflowpages/home) Home repo
 - [www_freeflowpages_com](https://github.com/freeflowpages/www_freeflowpages_com) Landing Page
 - [FreeFlow-Server](https://github.com/freeflowpages/freeflow-server) Original Repo
+- [Freeflow-theme](https://github.com/freeflowpages/freeflow-theme) Same as original theme with `freeflow` customized login page
 - [FreeFlow-iyo-module](https://github.com/freeflowpages/freeflow-iyo-module) Module to add [IYO](https://itsyou.online) support
 - [FreeFlow-rest-api-module](https://github.com/freeflowpages/freeflow-rest-api-module) Adds REST API support
 - [FreeFlow-Python-Client](https://github.com/freeflowpages/freeflow-python-client) Python client utilizing the REST API provided by [FreeFlow-rest-api-module](https://github.com/freeflowpages/freeflow-rest-api-module)
-- [Freeflow-flit](https://github.com/freeflowpages/freeflow-flist) Common config files & flist for automatic installation of freeflowpages
+- [Freeflow-flist](https://github.com/freeflowpages/freeflow-flist) Common config files & flist for automatic installation of freeflowpages
 - [Freeflow-android](https://github.com/freeflowpages/freeflow-android) Android app for freeflow pages
 
 #### Techincal Documentation
