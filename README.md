@@ -1,35 +1,13 @@
-## Freeflow Pages Technical info
+## What is [Freeflowpages](http://freeflowpages.com)
 
-#### What is Freeflowpages
+- [freeflowpages.com](https://freeflowpages.com/) is a **DECENTRALIZED** Social network with **Privacy** in mind for [Threefold Token Foundation](https://www.threefold.io/)
 
-DECENTRALIZED SOCIAL SPACES 
-FreeFlowPages where privacy and social media co-exist.
-
-[FreeflowPages](http://freeflowpages.com) A Social network for [Threefold Token Foundation](https://www.threefold.io/)
-
-
-### Team:
-
-### Website:
-
-[freeflowpages.com](https://freeflowpages.com/)
-
-Staging: [www2.freeflowpages.com](https://www2.freeflowpages.com/)
-
-### Wiki:
-
-[wiki.freeflowpages.com](https://wiki.freeflowpages.com/)
-
-staging: [wiki2.freeflowpages.com](http://wiki2.freeflowpages.com)
-
-### FreeFlowPages
-https://freeflowpages.com/s/freeflowpages
-
-### Gitea
-https://docs.grid.tf/freeflowpages/
-
-### Google Drive
-https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
+## Links
+- **Website** : [www2.freeflowpages.com](https://www2.freeflowpages.com/)
+- **Wiki** : [wiki.freeflowpages.com](https://wiki.freeflowpages.com/)
+- **Gitea** : [https://docs.grid.tf/freeflowpages/](https://docs.grid.tf/freeflowpages/)
+- **Google Drive** : [https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO](https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO)
+- **Freeflow social space** : [https://freeflowpages.com/s/freeflowpages](https://freeflowpages.com/s/freeflowpages)
 
 ## Repos
 
@@ -45,6 +23,6 @@ https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
 - [Freeflow-flist](https://github.com/freeflowpages/freeflow-flist) Common config files & flist for automatic installation of freeflowpages
 - [Freeflow-android](https://github.com/freeflowpages/freeflow-android) Android app for freeflow pages
 
-#### Techincal Documentation
+### Techincal Documentation
 
 - [Installing Freeflowpages](./Install.md)
