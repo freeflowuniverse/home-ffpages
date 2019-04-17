@@ -2,6 +2,13 @@
 
 - [freeflowpages.com](https://freeflowpages.com/) is a **DECENTRALIZED** Social network with **Privacy** in mind for [Threefold Token Foundation](https://www.threefold.io/)
 
+### Owner: 
+* [Jonas Delrue](https://www.linkedin.com/in/jonas-delrue/)
+
+### Team:
+* [Hamdy Farag](https://www.linkedin.com/in/hamdy/)
+* []
+
 ## Links
 
 ### Website:
