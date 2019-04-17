@@ -3,11 +3,27 @@
 - [freeflowpages.com](https://freeflowpages.com/) is a **DECENTRALIZED** Social network with **Privacy** in mind for [Threefold Token Foundation](https://www.threefold.io/)
 
 ## Links
-- **Website** : [www2.freeflowpages.com](https://www2.freeflowpages.com/)
-- **Wiki** : [wiki.freeflowpages.com](https://wiki.freeflowpages.com/)
-- **Gitea** : [https://docs.grid.tf/freeflowpages/](https://docs.grid.tf/freeflowpages/)
-- **Google Drive** : [https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO](https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO)
-- **Freeflow social space** : [https://freeflowpages.com/s/freeflowpages](https://freeflowpages.com/s/freeflowpages)
+
+### Website:
+
+[freeflowpages.como](http://freeflowpages.com)
+
+Staging: [http://www2.freeflowpages.com](http://www2.freeflowpages.com)
+
+### Wiki:
+
+[wiki.freeflowpages.com](http://wiki.freeflowpages.com/)
+
+staging: [wiki2.freeflowpages.com](http://wiki2.freeflowpages.com)
+
+### FreeFlowPages
+https://freeflowpages.com/s/freeflowpages
+
+### Gitea
+https://docs.grid.tf/freeflowpages/
+
+### Google Drive
+https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
 
 ## Repos
 
