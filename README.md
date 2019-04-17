@@ -7,7 +7,7 @@
 
 ### Team:
 * [Hamdy Farag](https://www.linkedin.com/in/hamdy/)
-* []
+* [Bishoy Michael](https://www.linkedin.com/in/bishoy-michael/)
 
 ## Links
 
