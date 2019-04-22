@@ -41,6 +41,7 @@ https://drive.google.com/drive/u/2/folders/1rKb6fw33rmffl45qWHUj8eOEqzyrmBdO
 - [FreeFlow-Server](https://github.com/freeflowpages/freeflow-server) Original Repo
 - [Freeflow-theme](https://github.com/freeflowpages/freeflow-theme) Same as original theme with `freeflow` customized login page
 - [FreeFlow-iyo-module](https://github.com/freeflowpages/freeflow-iyo-module) Module to add [IYO](https://itsyou.online) support
+- [FreeFlow-threebot-login](https://github.com/freeflowpages/freeflow-threebot-login) Module to add [3bot Login](http://3botlogin.jimber.org) support
 - [FreeFlow-rest-api-module](https://github.com/freeflowpages/freeflow-rest-api-module) Adds REST API support
 - [FreeFlow-Python-Client](https://github.com/freeflowpages/freeflow-python-client) Python client utilizing the REST API provided by [FreeFlow-rest-api-module](https://github.com/freeflowpages/freeflow-rest-api-module)
 - [Freeflow-flist](https://github.com/freeflowpages/freeflow-flist) Common config files & flist for automatic installation of freeflowpages
